@@ -1,5 +1,11 @@
 # william-note
 
+### Bookmark
+
+name | URL
+--- | ---
+Cloud Practioner | https://www.youtube.com/watch?v=3hLmDS179YE
+
 ### AWS Exam
 
 1. Cloud Practitioner
