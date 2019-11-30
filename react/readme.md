@@ -5,6 +5,7 @@ Name | URL
 --- | ---
 ReactJS Basic 1 | https://www.w3schools.com/react/default.asp
 ReactJS Basic 2 | https://www.tutorialspoint.com/reactjs/index.htm
+ReactJS Basic 3 | https://www.taniarascia.com/getting-started-with-react/
 ReactJS Basic Youtube | https://youtu.be/Ke90Tje7VS0
 ReactJS 101 (in Chinese) | https://www.bookstack.cn/read/reactjs101-zh-tw/README.md
 Basic Auth | https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
@@ -22,15 +23,16 @@ public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-an
 2. Install VSCode and two plugins
     1. Simple React Snippets (Author: Burke Holland)
     2. Prettier - Code formatter (Author: Esben Petersen)
-3. npm install -g create-react-app@1.5.2 (install "create-react-app" module,  one time per server, -g means global)
-4. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
-5. cd myfirstreact 
-6. npm start
-7. home page shows up at http://localhost:3000/
+3. Go to preference --> settings to enable "format on save"    
+4. npm install -g create-react-app@1.5.2 (install "create-react-app" module,  one time per server, -g means global)
+5. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
+6. cd myfirstreact 
+7. npm start
+8. home page shows up at http://localhost:3000/
 
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
-2. There is no need to use .jsx as file extension, js is fine.
+2. There is no need to use .jsx as file extension, js is fine. http://babeljs.io/repl page can convert jsx to typical javascript
 3. Function in javascript is the first method of class, so reference to function is actually a reference to object.
 
 ### Auth0 authentication
