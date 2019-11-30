@@ -17,13 +17,16 @@ SSR (Server Side Reandering) | https://nextjs.org/
 build and deployment | https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/
 public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-and-hosting-options-for-2019-ab4d668309fd
 
-### Create a ReactJS project
-1. Install Node.js from https://nodejs.org/en/download/ (one time task per server)
-2. npm install -g create-react-app (install "create-react-app" module,  one time per server, -g means global)
-3. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
-4. cd myfirstreact 
-5. npm start
-6. home page shows up at http://localhost:3000/
+### Setup develop environment
+1. Install Node.js from https://nodejs.org/en/download/ (we just need  this for npm, we don't need nodejs)
+2. Install VSCode and two plugins
+    1. Simple React Snippets (Author: Burke Holland)
+    2. Prettier - Code formatter (Author: Esben Petersen)
+3. npm install -g create-react-app@1.5.2 (install "create-react-app" module,  one time per server, -g means global)
+4. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
+5. cd myfirstreact 
+6. npm start
+7. home page shows up at http://localhost:3000/
 
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
