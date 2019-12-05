@@ -31,6 +31,11 @@ Create react app | https://create-react-app.dev/docs/getting-started
 7. npm start
 8. home page shows up at http://localhost:3000/
 
+### Deploy to Apache
+1. Add context (ex: /xxx) path to "package.json" (add "homepage":"/xxx/" to package.json OR add "homepage":"." to package.json for any folder)
+2. Create production build by "npm run build"
+3. Copy the content of build folder to /htdocs/xxx/
+
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
 2. There is no need to use .jsx as file extension, js is fine. http://babeljs.io/repl page can convert jsx to typical javascript
