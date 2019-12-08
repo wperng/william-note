@@ -18,6 +18,7 @@ SSR (Server Side Reandering) | https://nextjs.org/
 build and deployment | https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/
 public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-and-hosting-options-for-2019-ab4d668309fd
 Create react app | https://create-react-app.dev/docs/getting-started
+Routing | https://codeburst.io/getting-started-with-react-router-5c978f70df91
 
 ### Setup develop environment
 1. Install Node.js from https://nodejs.org/en/download/ (we just need  this for npm, we don't need nodejs)
