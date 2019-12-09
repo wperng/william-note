@@ -27,7 +27,8 @@ Routing | https://codeburst.io/getting-started-with-react-router-5c978f70df91
     2. Prettier - Code formatter (Author: Esben Petersen)
 3. Go to preference --> settings to enable "format on save"    
 4. npm install -g create-react-app@1.5.2 (install "create-react-app" module,  one time per server, -g means global)
-5. npx create-react-app myfirstreact (this step will create a myfirstreact folder)
+5. npx create-react-app myfirstreact (this step will create a myfirstreact folder)   
+   ---  If there is no public folder get generated, please run "npm rm -g create-react-app"     
 6. cd myfirstreact 
 7. npm start
 8. home page shows up at http://localhost:3000/
