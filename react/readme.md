@@ -39,6 +39,9 @@ CRUD | https://dzone.com/articles/consuming-rest-api-with-reactjs
 2. Create production build by "npm run build"
 3. Copy the content of build folder to /htdocs/xxx/
 
+### Debug
+1. <div>{JSON.stringify(planets)}</div>
+
 ### Feedback 
 1. All pages will be rendered on client side, but it can be renedered on server side by using nextjs.
 2. There is no need to use .jsx as file extension, js is fine. http://babeljs.io/repl page can convert jsx to typical javascript
