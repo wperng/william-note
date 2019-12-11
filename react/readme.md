@@ -20,6 +20,7 @@ public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-an
 Create react app | https://create-react-app.dev/docs/getting-started
 Routing | https://codeburst.io/getting-started-with-react-router-5c978f70df91
 CRUD | https://dzone.com/articles/consuming-rest-api-with-reactjs
+Debug | https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
 
 ### Setup develop environment
 1. Install Node.js from https://nodejs.org/en/download/ (we just need  this for npm, we don't need nodejs)
