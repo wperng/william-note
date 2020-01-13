@@ -2,7 +2,7 @@
 
 ### Docker hub account (https://hub.docker.com/)
 username: wperng   
-password: abc1234567   
+password: .....67 (all lower)   
 
 ### Bookmark
 Name | URL
