@@ -23,6 +23,7 @@ CRUD | https://dzone.com/articles/consuming-rest-api-with-reactjs
 CRUID Video | https://www.youtube.com/watch?v=eDomZxzi19Y&t=389s
 Debug | https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
 Fetch Data | https://medium.com/better-programming/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
+Route | https://www.youtube.com/watch?v=Law7wfdg_ls
 
 ### Setup develop environment
 1. Install Node.js from https://nodejs.org/en/download/ (we just need  this for npm, we don't need nodejs)
