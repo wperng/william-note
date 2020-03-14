@@ -11,6 +11,7 @@ Basic Srping Boot Example | https://stackify.com/guide-docker-java/
 Basic Srping Boot Example | https://spring.io/guides/gs/spring-boot-docker/
 How to build a docker image | https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/
 How to List / Start / Stop / Delete docker Containers | https://www.thegeekdiary.com/how-to-list-start-stop-delete-docker-containers/
+How To Remove Docker Images, Containers, and Volumes | https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
 
 ### 
 1. Download docker desktop 
