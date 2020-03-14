@@ -8,4 +8,4 @@ Jenkins
     4. william's experience: Just go to the war folder and run java -jar jenkins.war --httpPort=9090 (admin/admin for the local version)
 2. Start Jenkins by Docker
     1. (Approach 1) Start both Master and Slave: https://medium.com/@jagdale0210/deploy-jenkins-master-slave-as-docker-container-ea8557d0d52a
-    2. (Approach 2) Start Master: https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+with+Docker
+    2. (Approach 2) Start Master: https://medium.com/@nehasaggam/how-to-setup-jenkins-locally-using-docker-on-windows-2f1f3e09f831
