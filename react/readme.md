@@ -8,6 +8,7 @@ ReactJS Basic 1 | https://www.w3schools.com/react/default.asp
 ReactJS Basic 2 | https://www.tutorialspoint.com/reactjs/index.htm
 ReactJS Basic 3 | https://www.taniarascia.com/getting-started-with-react/
 ReactJS Basic Youtube | https://youtu.be/Ke90Tje7VS0
+ReactJS Component | https://www.freecodecamp.org/news/how-to-write-your-first-react-js-component-d728d759cabc/ <BR/> https://www.taniarascia.com/getting-started-with-react/
 ReactJS 101 (in Chinese) | https://www.bookstack.cn/read/reactjs101-zh-tw/README.md
 Basic Auth | https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
 Auth0 Example | https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b
