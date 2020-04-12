@@ -47,7 +47,7 @@ Mutiple Step Form | https://www.youtube.com/watch?v=zT62eVxShsY&t=1924s
 
 ### Deploy to Apache
 1. Add context (ex: /xxx) path to "package.json" (add "homepage":"/xxx/" to package.json OR add "homepage":"." to package.json for any folder)
-2. Create production build by "npm run build"
+2. Create production build by "npm run build" (You may need to run "npm install" first)
 3. Copy the content of build folder to /htdocs/xxx/
 
 ### Debug
