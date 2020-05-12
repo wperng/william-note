@@ -34,6 +34,8 @@ Route | https://www.youtube.com/watch?v=Law7wfdg_ls
 Route | https://www.youtube.com/watch?v=XRfD8xIOroA
 Authentication Login | https://www.youtube.com/watch?v=Y0-qdp-XBJg
 Mutiple Step Form | https://www.youtube.com/watch?v=zT62eVxShsY&t=1924s
+OAuth | https://medium.com/better-programming/building-secure-login-flow-with-oauth-2-openid-in-react-apps-ce6e8e29630a
+OpenID Connector | https://www.npmjs.com/package/react-openidconnect
 
 ### Setup develop environment
 1. Install Node.js from https://nodejs.org/en/download/ (we just need  this for npm, we don't need nodejs)
