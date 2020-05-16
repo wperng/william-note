@@ -47,8 +47,9 @@ OpenID Connector | https://www.npmjs.com/package/react-openidconnect
 5. npx create-react-app myfirstreact (this step will create a myfirstreact folder)   
    ---  If there is no public folder get generated, please run "npm rm -g create-react-app"     
 6. cd myfirstreact 
-7. npm start
-8. home page shows up at http://localhost:3000/
+7. (optional for just download from git) npm install
+8. npm start
+9. home page shows up at http://localhost:3000/
 
 ### Deploy to Apache
 1. Add context (ex: /xxx) path to "package.json" (add "homepage":"/xxx/" to package.json OR add "homepage":"." to package.json for any folder)
