@@ -7,6 +7,7 @@ Good | https://reactjs.org/docs/components-and-props.html
 How to pass props throug router | https://tylermcginnis.com/react-router-pass-props-to-components/
 Oauth Module | https://www.npmjs.com/package/client-oauth2, https://scotch.io/tutorials/build-a-react-native-app-and-authenticate-with-oauth-20
 Official Tutorial | https://reactjs.org/tutorial/tutorial.html
+Basic Tutorial | https://www.robinwieruch.de/react-function-component#react-function-component-example
 ReactJS Basic 1 | https://www.w3schools.com/react/default.asp
 ReactJS Basic 2 | https://www.tutorialspoint.com/reactjs/index.htm
 ReactJS Basic 3 | https://www.taniarascia.com/getting-started-with-react/
