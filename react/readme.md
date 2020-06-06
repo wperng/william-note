@@ -1,5 +1,10 @@
 # ReactJS
 
+### High Priority
+1. Login: 
+2. Table: https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba
+3. Table component: https://material-table.com/#/
+
 ### Bookmark
 Name | URL  
 --- | ---
