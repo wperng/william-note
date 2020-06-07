@@ -2,6 +2,7 @@
 
 ### High Priority
 1. Login: https://medium.com/better-programming/building-secure-login-flow-with-oauth-2-openid-in-react-apps-ce6e8e29630a
+2. Login: https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b
 2. Login Module: https://www.npmjs.com/package/react-openidconnect
 2. Table: https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba
 3. Table component: https://material-table.com/#/
