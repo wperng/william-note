@@ -1,0 +1,1 @@
+https://adoptopenjdk.net/
