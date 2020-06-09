@@ -40,6 +40,7 @@ Debug | https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e72
 Fetch Data | https://medium.com/better-programming/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
 Route | https://www.youtube.com/watch?v=Law7wfdg_ls
 Route | https://www.youtube.com/watch?v=XRfD8xIOroA
+Route | https://learnwithparam.com/blog/how-to-pass-props-in-react-router/
 Authentication Login | https://www.youtube.com/watch?v=Y0-qdp-XBJg
 Mutiple Step Form | https://www.youtube.com/watch?v=zT62eVxShsY&t=1924s
 OAuth | https://medium.com/better-programming/building-secure-login-flow-with-oauth-2-openid-in-react-apps-ce6e8e29630a
