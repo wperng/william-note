@@ -47,6 +47,7 @@ OAuth | https://medium.com/better-programming/building-secure-login-flow-with-oa
 OpenID Connector | https://www.npmjs.com/package/react-openidconnect
 covid 19 - 1 | https://medium.com/@zudemwango/fetching-covid-19-data-using-react-js-material-ui-and-material-table-d41314706b59
 covid 19 - 2 | https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba
+parameter passing | https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654
 
 
 ### Setup develop environment
