@@ -9,6 +9,7 @@
 
 ### Bookmark for Authentication
 Name | URL
+--- | ---
 Get parameter in OAuth flow | https://auth0.com/docs/api-auth/tutorials/implicit-grant
 Protery spread notation | https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
 
