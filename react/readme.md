@@ -7,13 +7,17 @@
 2. Table: https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba
 3. Table component: https://material-table.com/#/
 
+### Bookmark for Authentication
+Name | URL
+Get parameter in OAuth flow | https://auth0.com/docs/api-auth/tutorials/implicit-grant
+Protery spread notation | https://stackoverflow.com/questions/31048953/what-do-these-three-dots-in-react-do
+
 ### Bookmark
 Name | URL  
 --- | ---
 Good | https://reactjs.org/docs/components-and-props.html
 How to pass props throug router | https://tylermcginnis.com/react-router-pass-props-to-components/
 Oauth Module | https://www.npmjs.com/package/client-oauth2, https://scotch.io/tutorials/build-a-react-native-app-and-authenticate-with-oauth-20
-Get parameter in OAuth flow | https://auth0.com/docs/api-auth/tutorials/implicit-grant
 Official Tutorial | https://reactjs.org/tutorial/tutorial.html
 Basic Tutorial | https://www.robinwieruch.de/react-function-component#react-function-component-example
 ReactJS Basic 1 | https://www.w3schools.com/react/default.asp
