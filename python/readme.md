@@ -16,4 +16,5 @@ Flask Tutorial | https://www.tutorialspoint.com/flask/index.htm
 3. cd \<project folder\>
 4. python -m venv env
 5. To active: \<project folder\>\env\Scripts\activate.bat (Mac/Linux: "source mypython/bin/activate")
+6. in vscode: ctrl+shift+P select "Python: Select Interpreter" and selct "./evn/Scripts/python.ext"
 
