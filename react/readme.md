@@ -5,6 +5,7 @@
 1. [Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
 2. [Official Redux Document in Chinese](https://cn.redux.js.org/)
 3. [Create react app tutorial](https://create-react-app.dev/docs/getting-started)
+4. [React Hooks in Chinese](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
 
 ### High Priority
 1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
