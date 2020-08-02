@@ -2,7 +2,8 @@
 
 
 ### Bookmark
-[Office Redux Document in Chinese](https://cn.redux.js.org/)
+[Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
+[Official Redux Document in Chinese](https://cn.redux.js.org/)
 
 ### High Priority
 1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
@@ -11,6 +12,13 @@
 4. [Fetch COVID 19 data in React](https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba)
 5. [Material UI table](https://material-table.com/#/)
 6. [React OAuth document with Redux](https://difi.github.io/felleslosninger/oidc_sample_react.html)
+7. [npm module for React OAuth]( https://www.npmjs.com/package/client-oauth2)
+8. [React native applications with OAuth](https://scotch.io/tutorials/build-a-react-native-app-and-authenticate-with-oauth-20)
+
+### Knowledge
+1. [Function vs class component](https://reactjs.org/docs/components-and-props.html)
+2. [How to pass props throug router](ttps://tylermcginnis.com/react-router-pass-props-to-components/)
+
 
 ### Bookmark for Authentication
 Name | URL
@@ -21,10 +29,6 @@ Property spread notation | https://stackoverflow.com/questions/31048953/what-do-
 ### Bookmark
 Name | URL  
 --- | ---
-Good | https://reactjs.org/docs/components-and-props.html
-How to pass props throug router | https://tylermcginnis.com/react-router-pass-props-to-components/
-Oauth Module | https://www.npmjs.com/package/client-oauth2, https://scotch.io/tutorials/build-a-react-native-app-and-authenticate-with-oauth-20
-Official Tutorial | https://reactjs.org/tutorial/tutorial.html
 Basic Tutorial | https://www.robinwieruch.de/react-function-component#react-function-component-example
 ReactJS Basic 1 | https://www.w3schools.com/react/default.asp
 ReactJS Basic 2 | https://www.tutorialspoint.com/reactjs/index.htm
