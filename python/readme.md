@@ -1,10 +1,10 @@
 # Python
 
 ### Bookmark
-name | URL
---- | ---
-Python Virtual Env | https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
-Flask Tutorial | https://www.tutorialspoint.com/flask/index.htm
+1. [Python tutirial in Chinese](https://www.liaoxuefeng.com/wiki/1016959663602400)
+2. [Flask Tutorial in Chinese](http://www.pythondoc.com/flask-mega-tutorial/)T
+3. [Python Virtual Env](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+4. [Flask Tutorial in tutorialspoint](https://www.tutorialspoint.com/flask/index.htm)
 
 ### Deployment
 1. Run "pip freeze > requirements.txt" to create requirement.txt
