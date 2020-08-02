@@ -4,6 +4,7 @@
 ### Bookmark
 1. [Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
 2. [Official Redux Document in Chinese](https://cn.redux.js.org/)
+3. [Create react app tutorial](https://create-react-app.dev/docs/getting-started)
 
 ### High Priority
 1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
@@ -42,11 +43,9 @@ Auth0 Example | https://medium.appbase.io/how-to-implement-authentication-for-yo
 Material UI | https://material-ui.com
 Material Video | https://www.youtube.com/watch?v=xm4LX5fJKZ8&t=329s
 Online Editor | https://codesandbox.io/
-Cluster | ???
 SSR (Server Side Reandering) | https://nextjs.org/
 build and deployment | https://www.freecodecamp.org/news/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4/
 public reactjs server | https://blog.bitsrc.io/8-react-application-deployment-and-hosting-options-for-2019-ab4d668309fd
-Create react app | https://create-react-app.dev/docs/getting-started
 Routing | https://codeburst.io/getting-started-with-react-router-5c978f70df91
 Router | https://reacttraining.com/react-router/web/example/basic
 CRUD | https://dzone.com/articles/consuming-rest-api-with-reactjs
@@ -59,7 +58,6 @@ Route | https://learnwithparam.com/blog/how-to-pass-props-in-react-router/
 Authentication Login | https://www.youtube.com/watch?v=Y0-qdp-XBJg
 Mutiple Step Form | https://www.youtube.com/watch?v=zT62eVxShsY&t=1924s
 OAuth | https://medium.com/better-programming/building-secure-login-flow-with-oauth-2-openid-in-react-apps-ce6e8e29630a
-OpenID Connector | https://www.npmjs.com/package/react-openidconnect
 covid 19 - 1 | https://medium.com/@zudemwango/fetching-covid-19-data-using-react-js-material-ui-and-material-table-d41314706b59
 covid 19 - 2 | https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba
 parameter passing | https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654
