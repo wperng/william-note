@@ -5,7 +5,7 @@
 [Office Redux Document in Chinese](https://cn.redux.js.org/)
 
 ### High Priority
-1. [React OAuth document with example] https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49
+1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
 2. [npm module for React OAuth](https://www.npmjs.com/package/react-openidconnect)
 3. [Auth0 & Elastic Search](https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b1)
 4. [Fetch COVID 19 data in React](https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba)
