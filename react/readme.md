@@ -1,22 +1,16 @@
-# ReactJS
+# React
 
 
-### OAuth Playground
-https://www.oauth.com/playground/index.html
-
-### Redux
-https://cn.redux.js.org/
+### Bookmark
+[Office Redux Document in Chinese](https://cn.redux.js.org/)
 
 ### High Priority
-1. Login: https://medium.com/better-programming/building-secure-login-flow-with-oauth-2-openid-in-react-apps-ce6e8e29630a
-2. Login: https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b
-2. Login Module: https://www.npmjs.com/package/react-openidconnect
-2. Table: https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba
-3. Table component: https://material-table.com/#/
-
-oidc-client example   
-1. https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49
-2. https://difi.github.io/felleslosninger/oidc_sample_react.html
+1. [React OAuth document with example] https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49
+2. [npm module for React OAuth](https://www.npmjs.com/package/react-openidconnect)
+3. [Auth0 & Elastic Search](https://medium.appbase.io/how-to-implement-authentication-for-your-react-app-cf09eef3bb0b1)
+4. [Fetch COVID 19 data in React](https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba)
+5. [Material UI table](https://material-table.com/#/)
+6. [React OAuth document with Redux](https://difi.github.io/felleslosninger/oidc_sample_react.html)
 
 ### Bookmark for Authentication
 Name | URL
