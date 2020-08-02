@@ -2,8 +2,8 @@
 
 
 ### Bookmark
-[Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
-[Official Redux Document in Chinese](https://cn.redux.js.org/)
+1. [Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
+2. [Official Redux Document in Chinese](https://cn.redux.js.org/)
 
 ### High Priority
 1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
@@ -17,7 +17,7 @@
 
 ### Knowledge
 1. [Function vs class component](https://reactjs.org/docs/components-and-props.html)
-2. [How to pass props throug router](ttps://tylermcginnis.com/react-router-pass-props-to-components/)
+2. [How to pass props throug router](https://tylermcginnis.com/react-router-pass-props-to-components/)
 
 
 ### Bookmark for Authentication
