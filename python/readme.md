@@ -2,7 +2,7 @@
 
 ### Bookmark
 1. [Python tutirial in Chinese](https://www.liaoxuefeng.com/wiki/1016959663602400)
-2. [Flask Tutorial in Chinese](http://www.pythondoc.com/flask-mega-tutorial/)T
+2. [Flask Tutorial in Chinese](http://www.pythondoc.com/flask-mega-tutorial/)
 3. [Python Virtual Env](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 4. [Flask Tutorial in tutorialspoint](https://www.tutorialspoint.com/flask/index.htm)
 
