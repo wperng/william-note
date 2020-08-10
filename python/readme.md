@@ -5,6 +5,8 @@
 2. [Flask Tutorial in Chinese](http://www.pythondoc.com/flask-mega-tutorial/)
 3. [Python Virtual Env](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 4. [Flask Tutorial in tutorialspoint](https://www.tutorialspoint.com/flask/index.htm)
+5. [Simple REST FLASK](https://dzone.com/articles/restful-web-services-with-python-flask)
+6. [CRUD FLASK](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
 
 ### Deployment
 1. Run "pip freeze > requirements.txt" to create requirement.txt
