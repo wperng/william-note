@@ -5,3 +5,4 @@
 2. https://www.w3cschool.cn/apache_kafka/apache_kafka_workflow.html
 3. monitor: https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
 4. Kafka Eagle
+5. Kafka on K8s: https://medium.com/@_oleksii_/how-to-deploy-apache-kafka-cluster-zookeeper-in-kubernetes-c5b04f01ac20
