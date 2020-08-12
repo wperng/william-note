@@ -6,8 +6,9 @@
 2. [Official Redux Document in Chinese](https://cn.redux.js.org/)
 3. [Create react app tutorial](https://create-react-app.dev/docs/getting-started)
 4. [React Hooks 入门教程](https://www.ruanyifeng.com/blog/2019/09/react-hooks.html)
-5. [React Environment Variable](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
-6. [Fetch Data in React](https://pusher.com/tutorials/consume-restful-api-react)
+5. [React Hooks 2](https://fenews.org/posts/getting-started-with-react-hooks/)
+6. [React Environment Variable](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
+7. [Fetch Data in React](https://pusher.com/tutorials/consume-restful-api-react)
 
 ### High Priority
 1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
