@@ -10,6 +10,10 @@
 6. [React Environment Variable](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
 7. [Fetch Data in React](https://pusher.com/tutorials/consume-restful-api-react)
 
+### Learned
+1. What is JSX: JavaScript includes all HTML tags into javascript language.
+
+
 ### High Priority
 1. [React OAuth document with example](https://medium.com/@franciscopa91/how-to-implement-oidc-authentication-with-react-context-api-and-react-router-205e13f2d49)
 2. [npm module for React OAuth](https://www.npmjs.com/package/react-openidconnect)
