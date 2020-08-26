@@ -9,6 +9,7 @@
 5. [React Hooks 2](https://fenews.org/posts/getting-started-with-react-hooks/)
 6. [React Environment Variable](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
 7. [Fetch Data in React](https://pusher.com/tutorials/consume-restful-api-react)
+8. [Fetch](https://davidwalsh.name/fetch)
 
 ### Learned
 1. What is JSX: JavaScript includes all HTML tags into javascript language.
