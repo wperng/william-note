@@ -10,6 +10,8 @@
 6. [React Environment Variable](https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5)
 7. [Fetch Data in React](https://pusher.com/tutorials/consume-restful-api-react)
 8. [Fetch](https://davidwalsh.name/fetch)
+9. [Use side effect to fetch data](https://medium.com/better-programming/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd)
+10. [Pagination with side effect](https://dev.to/admantium/react-creating-a-custom-hook-for-pagination-jni)
 
 ### Learned
 1. What is JSX: JavaScript includes all HTML tags into javascript language.
