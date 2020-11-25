@@ -7,3 +7,4 @@
 4. Kafka Eagle
 5. Kafka on K8s: https://medium.com/@_oleksii_/how-to-deploy-apache-kafka-cluster-zookeeper-in-kubernetes-c5b04f01ac20
 6. Kafka installation: https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-18-04
+7. Kafka Tutorial: https://www.toutiao.com/a6766038531988013582/
