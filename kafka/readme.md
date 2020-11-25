@@ -6,3 +6,4 @@
 3. monitor: https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
 4. Kafka Eagle
 5. Kafka on K8s: https://medium.com/@_oleksii_/how-to-deploy-apache-kafka-cluster-zookeeper-in-kubernetes-c5b04f01ac20
+6. Kafka installation: https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-18-04
