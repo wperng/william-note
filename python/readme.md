@@ -7,6 +7,7 @@
 4. [Flask Tutorial in tutorialspoint](https://www.tutorialspoint.com/flask/index.htm)
 5. [Simple REST FLASK](https://dzone.com/articles/restful-web-services-with-python-flask)
 6. [CRUD FLASK](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
+7. [Flask Environment in VSCode](https://code.visualstudio.com/docs/python/tutorial-flask)
 
 ### Deployment
 1. Run "pip freeze > requirements.txt" to create requirement.txt
