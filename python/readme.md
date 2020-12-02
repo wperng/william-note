@@ -20,4 +20,5 @@
 4. python -m venv env
 5. To active: \<project folder\>\env\Scripts\activate.bat (Mac/Linux: "source mypython/bin/activate")
 6. in vscode: ctrl+shift+P select "Python: Select Interpreter" and selct "./evn/Scripts/python.ext"
+7. (Optional) We may need to run "pip install -r requirements.txt" to download all requirement library.
 
