@@ -8,6 +8,7 @@
 5. [Simple REST FLASK](https://dzone.com/articles/restful-web-services-with-python-flask)
 6. [CRUD FLASK](https://scotch.io/tutorials/build-a-crud-web-app-with-python-and-flask-part-one)
 7. [Flask Environment in VSCode](https://code.visualstudio.com/docs/python/tutorial-flask)
+8. [Python Virtual Env](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
 
 ### Deployment
 1. Run "pip freeze > requirements.txt" to create requirement.txt
