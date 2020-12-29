@@ -12,6 +12,7 @@
 8. [Fetch](https://davidwalsh.name/fetch)
 9. [Use side effect to fetch data](https://medium.com/better-programming/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd)
 10. [Pagination with side effect](https://dev.to/admantium/react-creating-a-custom-hook-for-pagination-jni)
+11. [log in](https://www.pluralsight.com/guides/how-to-router-redirect-after-login)
 
 ### Learned
 1. What is JSX: JavaScript includes all HTML tags into javascript language.
