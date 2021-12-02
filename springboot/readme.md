@@ -8,3 +8,4 @@ Tutorial Point | https://www.tutorialspoint.com/spring_boot/spring_boot_scheduli
 Spring Boot Tutorial | http://zetcode.com/all/#springboot
 gzip | https://www.javainuse.com/spring/boot-zip
 crud | https://www.codejava.net/frameworks/spring-boot/spring-boot-crud-example-with-spring-mvc-spring-data-jpa-thymeleaf-hibernate-mysql
+fileupload | https://dzone.com/articles/java-springboot-rest-api-to-uploaddownload-file-on
