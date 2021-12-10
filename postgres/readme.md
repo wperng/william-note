@@ -12,6 +12,10 @@
 ### By Windows service
 1. pg_ctl register -N postgres -D D:\Users\yung-hen_perng\Desktop\javadev\pgsql\data
 2. net start postgres
+### Ubuntu
+1. Install postgresql
+  sudo apt install postgresql postgresql-contrib
+	sudo service postgresql restart
 ### Spring boot
 server.servlet.context-path=/kongtool<br/>
 spring.jpa.hibernate.ddl-auto=update<br/>
