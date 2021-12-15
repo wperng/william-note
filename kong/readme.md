@@ -6,3 +6,8 @@
 3. [Install PgAdmin](https://www.pgadmin.org/download/pgadmin-4-apt/)
 4. [UI](https://github.com/pocketdigi/kong-admin-ui)
 5. [Ingress](https://dzone.com/articles/kubernetes-full-stack-example-with-kong-ingress-co)
+
+## start/stop Kong
+1. start kong: kong start -c /etc/kong/kong.conf
+2. stop kong: kong stop 
+3. restart kong: kong restart -c /etc/kong/kong.conf
