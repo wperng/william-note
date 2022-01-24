@@ -7,3 +7,12 @@
 
 ### Progress
 1. Video 1  2022-01-23 9:09
+
+### Note
+1. Kublet is agent of master node
+2. the master node is the entry of api, gui, ....
+3. there will be more than 1 master node
+4. pod is abstract layer of container
+5. node can have mutiple pods, each pod has it's own IP
+6. One service will be attached to each pod
+
