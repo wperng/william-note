@@ -3,6 +3,7 @@
 ### Bookmark
 Name | URL
 --- | ---
+basic | https://mkyong.com/spring-boot/spring-boot-hello-world-example-thymeleaf/
 Create SOAP by WSDL | https://www.javainuse.com/spring/springbootsoapwebservice
 Tutorial Point (useful)| https://www.tutorialspoint.com/spring_boot/spring_boot_scheduling.htm
 Spring Boot Tutorial | http://zetcode.com/all/#springboot
