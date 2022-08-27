@@ -7,4 +7,7 @@
 4. URL: [The State of Kubernetes Configuration Management: An Unsolved Problem](https://blog.argoproj.io/the-state-of-kubernetes-configuration-management-d8b06c1205)
 
 
+### Note
+1. POD is a group of containers
+
 
