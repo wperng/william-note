@@ -12,3 +12,5 @@
 
 ### Onboarding Data
   #### Upload 
+  1. Approach 1 - bulk upload
+  2. Apporach 2 - data arrives incrementally
