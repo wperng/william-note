@@ -5,13 +5,10 @@
   Name | URL
   --- | ---
   Install Component | curl -O https://raw.githubusercontent.com/opensearch-project/documentation-website/2.11/assets/examples/docker-compose.yml
-  Install Schema | curl -O https://raw.githubusercontent.com/opensearch-project/documentation-website/2.11/assets/examples/ecommerce-field_mappings.json <br>  
-                 |  curl -H "Content-Type: application/x-ndjson" -X PUT "https://localhost:9200/ecommerce" -ku admin:admin --data-binary "@ecommerce-field_mappings.json"
-  Install Data | curl -O https://raw.githubusercontent.com/opensearch-project/documentation-website/2.11/assets/examples/ecommerce.json <br>  
-                 curl -H "Content-Type: application/x-ndjson" -X PUT "https://localhost:9200/ecommerce/_bulk" -ku admin:admin --data-binary "@ecommerce.json"
+  Install Schema | curl -H "Content-Type: application/x-ndjson" -X PUT "https://localhost:9200/ecommerce" -ku admin:admin --data-binary "@ecommerce-field_mappings.json"
+  Install Data | curl -H "Content-Type: application/x-ndjson" -X PUT "https://localhost:9200/ecommerce/_bulk" -ku admin:admin --data-binary "@ecommerce.json"
   Search |  curl -H 'Content-Type: application/json' -X GET "https://localhost:9200/ecommerce/_search?pretty=true" -ku admin:admin -d' {"query":{"match":{"customer_first_name":"Sonya"}}}'
-
-  There is a developer tool to test query:   Management > Dev Tools
+  Note | There is a developer tool to test query:   Management > Dev Tools
 
 ### Onboarding Data
   #### Upload 
